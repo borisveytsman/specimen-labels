@@ -1,0 +1,14 @@
+		   Specimen labels for collections
+		R. Sean Thackurdeen and Boris Veytsman
+
+A class to typeset herbarium and other specimen labels using a
+spreadsheet of specimen data.
+
+In the field, notes of a plant collection are made on weather
+resistant paper. At a moment's rest in the field, or back at home,
+data is provisionally transferred to a spreadsheet. The columns of the
+spreadsheet usually correspond to the database schema of the archival
+repository. Most often the schema adheres to the biodiversity standard
+known as Darwin Core (DwC).
+
+This class creates typeset labels ready to be cut and used.
